@@ -2,9 +2,8 @@ Tweet-Analytics
 =====================================================
 
 ## Intro           
-This software was developed to analyze large number of Twitter tweets using Apache Mahout and Hadoop. (Funding source: National Science Foundation Grant No. 1115871)
 Li's thesis project **"Classification of Clinical Tweets Using Apache Mahout"**  
-Propose a new tool called Clinical Tweets Classifier (CTC) to enable scalable classification of clinical content on Twitter
+Propose a new tool called Clinical Tweets Classifier (CTC) to enable scalable classification of clinical content on Twitter using Apache Mahout and Hadoop
 
 ## TStream           
 
