@@ -1,3 +1,4 @@
+
 Tweet-Analytics
 =====================================================
 
@@ -28,3 +29,7 @@ Train and test models with Mahout
 ## Mahout-cluster
 
 Classify clinical tweets using Naive Bayes in Hapood cluster
+
+## Acknowledgments
+
+This work was in part supported by the National Science Foundation under Grant No. 1115871.
